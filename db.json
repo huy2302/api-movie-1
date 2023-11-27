@@ -1,0 +1,34 @@
+// 20231127165537
+// http://localhost:8080/api/movie/1
+
+{
+  "movieID": 1,
+  "title": "Avengers: Endgame",
+  "poster": "https://m.media-amazon.com/images/M/ashdjkahsdkjahsdkjahsd",
+  "year": "2019",
+  "rated": 8.5,
+  "released": "26 Apr 2019",
+  "runtime": 160,
+  "directors": [
+    "Anthony Russo",
+    "Joe Russo"
+  ],
+  "writers": [
+    "Christopher Markus",
+    "Stephen McFeely",
+    "Stan Lee (based on the Marvel the Marvel comics by",
+    "Jim Starlin (comic book)"
+  ],
+  "actors": [
+    "Bradley Cooper",
+    "Brie Larson"
+  ],
+  "plot": "After the devastating events of Avengers: Infinity War(2018), the unity of remaning allies, the Avengers assenble once more in order to undo Thanos action universe",
+  "country": "USA",
+  "awards": "21 nominations.",
+  "language": "English",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ]
+}
